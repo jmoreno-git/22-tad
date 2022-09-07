@@ -1,4 +1,4 @@
-# 22-tad. Tècniques avançades de desenvolupament ((DAM/DAW)).
+# 22-tad. Tècniques avançades de desenvolupament (DAM/DAW).
 
 **Programació del mòdul**
 
